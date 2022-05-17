@@ -24,7 +24,7 @@ In order to keep some semblance of order in this library, please add your resour
 - short description of why it's cool/life-saving
 - the GitHub handle of the person who shared it (who do we send the flowers to?)
 
-#### Example
+### Some useful links covering week1(Server) and week2(Database)
 
 | Link      | Description                                                     | Added by     |
 | -------------------------- | --------------------------------------------------------------- | ------------ |
