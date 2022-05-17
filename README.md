@@ -26,12 +26,21 @@ In order to keep some semblance of order in this library, please add your resour
 
 #### Example
 
-| Link                       | Description                                                     | Added by     |
+| Link      | Description                                                     | Added by     |
 | -------------------------- | --------------------------------------------------------------- | ------------ |
-| http://www.simpleicons.org | Simple, free SVG icons of pretty much any logo you can think of | @[jokosanyang](https://github.com/jokosanyang) |
-
---- 
-
+| https://github.com/expressjs/body-parser#bodyparserurlencodedoptions | body-parser middleware | @[Orian](https://github.com/OrianP) |
+| https://github.com/sveltejs/sapper/issues/924)| npm server download issue solution| @[Oli](https://github.com/oliverjam)|
+|https://hackmd.io/yRq2tr0BTZ6ZDSm88O13HQ|Guide on installing cypress on wsl|@[Reuben](https://github.com/reubengt)|
+|https://fac-23.github.io/projects-gallery/|Project gallary Fac23|@[Paolo](https://github.com/paologhidoni)|
+|https://marketplace.visualstudio.com/items?itemName=Tobermory.es6-string-html|useful Vscode extension|@[orian](https://github.com/OrianP)|
+|https://gist.github.com/winuxue/cfef08e2f5fe9dfc16a1d67a4ad38a01|Cypress dependecies fix for wsl|@[George](https://github.com/Glombort)|
+|https://devcenter.heroku.com/articles/git|Heroku cli for mac|@[Reuben](https://github.com/reubengt)|
+|https://github.com/fac24/cohort/blob/main/co-authoring-emails.md|Guide on co-authoring commits|@[Reuben](https://github.com/reubengt)|
+|https://docs.npmjs.com/cli/v8/using-npm/logging#loglevel|npm config set loglevel info|@[Joe](https://github.com/joe-dev-public)|
+|https://dbdiagram.io/d/62823f707f945876b627a336|Visualisation of Db|@[Reuben](https://github.com/reubengt)|
+|(https://github.com/coding-wiki/learn-sql/blob/master/postgresql/setup.md#linux-instructions|Postgres connection to server fix|@[Oli](https://github.com/oliverjam)|
+|https://hackmd.io/sHxdAqCxQX-fNaqWvHWo5g?view|Guide on how to deploy app on Heroku|@[Sonia](https://github.com/sonianb)|
+---
 ## How to request a resource
 
 If there is a resource you really think your code and life could benefit from, you can also put out a request to the group brain.
